@@ -1,5 +1,5 @@
 # Analisador-Lexico
-Um trabalho de faculdade que se resume em criar um analisador léxico que segue o modelo de maquina de estados para o reconhecimento de entradas variadas 
+Um trabalho de faculdade que se resume em criar um analisador léxico que segue o modelo de maquina de estados para o reconhecimento de entradas variadas \n
 Requisitos
 
 Java 11+ (recomendado: OpenJDK 17 ou superior)
