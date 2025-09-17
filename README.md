@@ -1,13 +1,13 @@
 # Analisador-Lexico
 Um trabalho de faculdade que se resume em criar um analisador léxico que segue o modelo de maquina de estados para o reconhecimento de entradas variadas
 
-Requisitos
+# Requisitos
 
 Java 11+ (recomendado: OpenJDK 17 ou superior)
 
 IDE ou editor de texto de sua preferência (IntelliJ, VS Code, Eclipse, etc.)
 
-Compilação e Execução
+# Compilação e Execução
 
 Dentro da pasta src, compile os arquivos:
 
